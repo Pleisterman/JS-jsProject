@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>jsProject Examples</title>
+        <link href="../../images/logo.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
         <meta charset="UTF-8">
         <meta name="description" content="How to jsProject">
         <meta name="keywords" content="jsProject, explanation, function, example">
